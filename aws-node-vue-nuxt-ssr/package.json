@@ -20,9 +20,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
-    "express": "^4.16.3",
-    "nuxt": "^1.4.2",
+    "axios": "^0.30.3",
+    "express": "^4.22.1",
+    "nuxt": "^4.4.2",
     "serverless-apigw-binary": "^0.4.4",
     "serverless-http": "^1.6.0"
   },
